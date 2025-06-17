@@ -1,5 +1,5 @@
 ## 📜 Overview
-MBT proposes a universe governed by **motion-based tension fields** instead of mass-based gravity. It replaces spacetime curvature with dynamic sheet resistance, explaining:
+MBT proposes a universe governed by **motion-based tension fields** instead of mass-based gravity, explaining:
 - Cosmic expansion
 - Galaxy formation
 - Redshift and BAO trends
